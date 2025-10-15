@@ -12,3 +12,8 @@ class Cat:
 
 class Dog:
     pass
+
+
+
+cat = Cat()
+dog = Dog()
