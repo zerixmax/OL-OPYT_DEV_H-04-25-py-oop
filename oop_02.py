@@ -1,4 +1,4 @@
-
+# naziv, broj nogu, boja, glasanje je funkcionalnost
 
 
 class Pet:
